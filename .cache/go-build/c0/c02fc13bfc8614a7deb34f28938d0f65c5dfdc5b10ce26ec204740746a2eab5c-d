@@ -1,0 +1,6 @@
+./client.go
+./doc.go
+./face.go
+./image.go
+./image_annotator_client.go
+./product_search_client.go

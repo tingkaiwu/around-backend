@@ -1,0 +1,6 @@
+./geometry.pb.go
+./image_annotator.pb.go
+./product_search.pb.go
+./product_search_service.pb.go
+./text_annotation.pb.go
+./web_detection.pb.go

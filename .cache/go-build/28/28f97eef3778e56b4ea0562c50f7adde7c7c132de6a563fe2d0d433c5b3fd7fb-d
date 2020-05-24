@@ -1,0 +1,13 @@
+./acl.go
+./bucket.go
+./copy.go
+./doc.go
+./go110.go
+./hmac.go
+./iam.go
+./invoke.go
+./notifications.go
+./post_policy_v4.go
+./reader.go
+./storage.go
+./writer.go
