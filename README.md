@@ -1,4 +1,4 @@
-## Photo Social Circle (Backend)
+## Instagram+ with Face Detection (Backend)
 
 <p>
   <img src="https://github.com/tingkaiwu/tingkaiwu/blob/master/around2.gif">
